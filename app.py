@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 28 02:21:09 2019
+Created on Thu Aug 29 2024
 
 Algoritmo Genético
 
-@author: Marco
+@author: Emannuel Oliveira
 """
 
 from AlgoritmoGenetico import AlgoritmoGenetico as AG
